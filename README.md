@@ -18,3 +18,4 @@ projetos\_web: Exercícios de SQL e Python feitos em aula.
 
 
 
+documentacao_implantação: Plano de implantação detalhado (Relatório técnico final do ecossitema PortfolioHUB em PDF).
